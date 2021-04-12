@@ -1,1 +1,1 @@
-# www-sivu-versiohallinta
+Jere ja Severi
